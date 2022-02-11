@@ -23,7 +23,7 @@ La vie mettra des pierres sur ta route, à toi de décider si tu en fera un mur 
 vous avez besoin d'aide ou pour se débrouiller ensemble 
 
 ## A funny Story 
-[Précedent](#){.btn .btn-link} ||Nadison Fidelys|| [Suivant](#){.btn .btn-link} 
+[Précedent](#) ||Nadison Fidelys|| [Suivant](#)
 
 
 
