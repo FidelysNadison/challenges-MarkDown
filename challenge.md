@@ -1,10 +1,10 @@
 # Nadison Fidelys
----
+***
 >La vie mettra des pierres sur ta route, à toi de décider si tu en fera un mur ou un pont.
-! [moi](Fidelys.jpg)
+!(Fidelys.jpg)
 
 ## Moi, en une phrase
----
+***
 | Questions|   Réponses    | 
 |----------|:-------------:|
 | Birthday |   28/02/02    | 
@@ -14,20 +14,20 @@
 |Pinneaple on Pizza|-[X]NO -[]YES|
 
 ## Hobbies
----
-1. Musique 
-  .guitar
-  .Rock
-2. Film
-  .comedie
-  .drame
+***
+* Musique 
+  * guitar
+  * Rock
+* Film
+  * comedie
+  * drame
 
 ## Vous pouver compter sur moi quand 
----
+***
 vous avez besoin d'aide ou pour se débrouiller ensemble 
 
 ## A funny Story 
-Précedent || Nadison Fidelys || Suivant 
+[Précedent] || Nadison Fidelys || [Suivant] 
 
 
 
